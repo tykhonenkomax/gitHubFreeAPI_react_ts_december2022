@@ -4,33 +4,18 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4ba2ed81-8d23-4610-80f0-1f60aef5aa49" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Button/Button.module.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Button/Button.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Button/index.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Search/Search.module.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Search/Search.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Search/index.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/UserCard/UserCard.module.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/UserCard/UserCard.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/UserCard/index.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/UserStat/UserStat.module.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/UserStat/UserStat.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/UserStat/index.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/UserTitle/UserTitle.module.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/UserTitle/UserTitle.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/UserTitle/index.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mock/index.ts" afterDir="false" />
+    <list default="true" id="4ba2ed81-8d23-4610-80f0-1f60aef5aa49" name="Changes" comment="1">
+      <change afterPath="$PROJECT_DIR$/src/components/InfoItem/InfoItem.module.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/InfoItem/InfoItem.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/InfoItem/index.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/UserInfo/UserInfo.module.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/UserInfo/UserInfo.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/UserInfo/index.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Container/Container.module.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Container/Container.module.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Container/Container.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Container/Container.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/TheHeader/TheHeader.module.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/TheHeader/TheHeader.module.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/TheHeader/TheHeader.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/TheHeader/TheHeader.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/ThemeSwitcher/ThemeSwitcher.module.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/ThemeSwitcher/ThemeSwitcher.module.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/ThemeSwitcher/ThemeSwitcher.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/ThemeSwitcher/ThemeSwitcher.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/UserCard/UserCard.module.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/UserCard/UserCard.module.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/UserCard/UserCard.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/UserCard/UserCard.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/UserTitle/UserTitle.module.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/UserTitle/UserTitle.module.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/UserTitle/UserTitle.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/UserTitle/UserTitle.tsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -81,8 +66,16 @@
       <option name="presentableId" value="Default" />
       <updated>1670797492289</updated>
       <workItem from="1670797493825" duration="51000" />
-      <workItem from="1670797554867" duration="15460000" />
+      <workItem from="1670797554867" duration="20518000" />
     </task>
+    <task id="LOCAL-00001" summary="1">
+      <created>1670920426626</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1670920426626</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -98,5 +91,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="1" />
+    <option name="LAST_COMMIT_MESSAGE" value="1" />
   </component>
 </project>
