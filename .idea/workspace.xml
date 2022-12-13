@@ -4,7 +4,34 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4ba2ed81-8d23-4610-80f0-1f60aef5aa49" name="Changes" comment="" />
+    <list default="true" id="4ba2ed81-8d23-4610-80f0-1f60aef5aa49" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Button/Button.module.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Button/Button.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Button/index.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Search/Search.module.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Search/Search.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Search/index.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/UserCard/UserCard.module.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/UserCard/UserCard.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/UserCard/index.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/UserStat/UserStat.module.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/UserStat/UserStat.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/UserStat/index.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/UserTitle/UserTitle.module.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/UserTitle/UserTitle.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/UserTitle/index.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mock/index.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Container/Container.module.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Container/Container.module.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Container/Container.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Container/Container.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/TheHeader/TheHeader.module.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/TheHeader/TheHeader.module.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/TheHeader/TheHeader.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/TheHeader/TheHeader.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/ThemeSwitcher/ThemeSwitcher.module.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/ThemeSwitcher/ThemeSwitcher.module.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/ThemeSwitcher/ThemeSwitcher.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/ThemeSwitcher/ThemeSwitcher.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.css" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,18 +44,24 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2ImrF2dURfBhKRyuGeDASlUcCTQ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
     "last_opened_file_path": "/Users/a1/Desktop/ts-course-project-2-starter",
     "node.js.detected.package.eslint": "true",
@@ -48,11 +81,22 @@
       <option name="presentableId" value="Default" />
       <updated>1670797492289</updated>
       <workItem from="1670797493825" duration="51000" />
-      <workItem from="1670797554867" duration="2827000" />
+      <workItem from="1670797554867" duration="15460000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
