@@ -22,7 +22,7 @@ export const InfoItem = ({icon, text, isLink}: InfoItemProps) => {
             {icon}
             <div>
                 {isLink && text ? (<a href={currentHref} target="_blank" rel="noreferrer"
-                                      className={styles.link}>currentText</a>) : currentText}
+                                      className={styles.link}>{currentText}</a>) : currentText}
             </div>
         </div>
     )

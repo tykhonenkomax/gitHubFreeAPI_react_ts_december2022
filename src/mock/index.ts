@@ -1,17 +1,16 @@
 import {LocalGitHubUser} from "../tayps";
 
 export const defaultUser: LocalGitHubUser ={
-    "login": "michey85",
-    "id": 36237995,
-    "avatar": "https://avatars.githubusercontent.com/u/36237995?v=4",
-    "name": "Mikhail Nepomniashchii",
-    "company": "EPAM",
-    "blog": "mishanep.com",
+    "login": "tykhonenkomax",
+    "avatar": "https://avatars.githubusercontent.com/u/95238323?v=4",
+    "name": "Max Tykhonenko",
+    "company": "Lviv Code",
+    "blog": "rocknrollhair.ua",
     "location": "Malaga",
-    "bio": "React/Vue developer",
-    "twitter": "pcgramota",
+    "bio": "React Developer",
+    "twitter": "https://twitter.com/RockNRollHair1",
     "repos": 61,
     "followers": 244,
     "following": 6,
-    "created": "2018-02-07T16:18:45Z",
+    "created": "2021-11-29T16:15:15Z",
 }
